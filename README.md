@@ -1,7 +1,9 @@
-# Simulation
+# BRAHMĀSTRA
 
-This repository contains simulation environments and tools
-used for development, testing, and validation of robotic systems.
+This repository contains simulation environments used
+to model and validate MIRAI robotic systems.
 
-Simulation is used to prototype behaviors, evaluate algorithms,
-and bridge the gap between software and real-world deployment.
+It includes robot descriptions, physics models, sensor
+simulation, and Gazebo-based testing to ensure simulated
+behavior closely matches real-world hardware.
+
